@@ -19,6 +19,7 @@ alias				https://source.sakaiproject.org/svn/alias/branches/sakai_2-2-x
 site				https://source.sakaiproject.org/svn/site/branches/sakai_2-2-x
 master				https://source.sakaiproject.org/svn/master/branches/sakai_2-2-x
 reference/library		https://source.sakaiproject.org/svn/reference/branches/sakai_2-2-x/library
+reference/docs			https://source.sakaiproject.org/svn/reference/branches/sakai_2-2-x/docs
 login				https://source.sakaiproject.org/svn/login/branches/sakai_2-2-x
 access				https://source.sakaiproject.org/svn/access/branches/sakai_2-2-x
 content				https://source.sakaiproject.org/svn/content/branches/sakai_2-2-x
