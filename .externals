@@ -32,6 +32,7 @@ memory/memory-api				https://source.sakaiproject.org/svn/memory/branches/sakai_2
 memory/memory-impl				https://source.sakaiproject.org/svn/memory/branches/sakai_2-3-x/memory-impl
 metaobj/metaobj-api				https://source.sakaiproject.org/svn/metaobj/branches/sakai_2-3-x/metaobj-api
 metaobj/metaobj-impl				https://source.sakaiproject.org/svn/metaobj/branches/sakai_2-3-x/metaobj-impl
+metaobj/metaobj-util				https://source.sakaiproject.org/svn/metaobj/branches/sakai_2-3-x/metaobj-util
 portal						https://source.sakaiproject.org/svn/portal/branches/sakai_2-3-x
 presence					https://source.sakaiproject.org/svn/presence/branches/sakai_2-3-x
 reference/library				https://source.sakaiproject.org/svn/reference/branches/sakai_2-3-x/library
