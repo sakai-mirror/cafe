@@ -36,10 +36,8 @@ memory/memory-impl				https://source.sakaiproject.org/svn/memory/trunk/memory-im
 metaobj						https://source.sakaiproject.org/svn/metaobj/trunk
 portal						https://source.sakaiproject.org/svn/portal/trunk
 presence					https://source.sakaiproject.org/svn/presence/trunk
-privacy						https://source.sakaiproject.org/svn/privacy/trunk/
-reference/library				https://source.sakaiproject.org/svn/reference/trunk/library
-reference/docs					https://source.sakaiproject.org/svn/reference/trunk/docs
-reference/demo					https://source.sakaiproject.org/svn/reference/trunk/demo
+privacy						https://source.sakaiproject.org/svn/privacy/trunk
+reference					https://source.sakaiproject.org/svn/reference/trunk
 site						https://source.sakaiproject.org/svn/site/trunk
 site-manage					https://source.sakaiproject.org/svn/site-manage/trunk
 test-harness					https://source.sakaiproject.org/svn/test-harness/trunk
