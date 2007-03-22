@@ -24,6 +24,7 @@ discussion					https://source.sakaiproject.org/svn/discussion/trunk
 email						https://source.sakaiproject.org/svn/email/trunk
 entity						https://source.sakaiproject.org/svn/entity/trunk
 event						https://source.sakaiproject.org/svn/event/trunk
+jobscheduler					https://source.sakaiproject.org/svn/jobscheduler/trunk
 jsf						https://source.sakaiproject.org/svn/jsf/trunk
 login						https://source.sakaiproject.org/svn/login/trunk
 master						https://source.sakaiproject.org/svn/master/trunk
@@ -38,6 +39,8 @@ portal						https://source.sakaiproject.org/svn/portal/trunk
 presence					https://source.sakaiproject.org/svn/presence/trunk
 privacy						https://source.sakaiproject.org/svn/privacy/trunk
 reference					https://source.sakaiproject.org/svn/reference/trunk
+rwiki						https://source.sakaiproject.org/svn/rwiki/trunk
+search						https://source.sakaiproject.org/svn/search/trunk
 site						https://source.sakaiproject.org/svn/site/trunk
 site-manage					https://source.sakaiproject.org/svn/site-manage/trunk
 test-harness					https://source.sakaiproject.org/svn/test-harness/trunk
