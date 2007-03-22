@@ -41,7 +41,6 @@ reference					https://source.sakaiproject.org/svn/reference/trunk
 site						https://source.sakaiproject.org/svn/site/trunk
 site-manage					https://source.sakaiproject.org/svn/site-manage/trunk
 test-harness					https://source.sakaiproject.org/svn/test-harness/trunk
-transformable					https://source.sakaiproject.org/svn/transformable/trunk
 tool						https://source.sakaiproject.org/svn/tool/trunk
 user/user-api					https://source.sakaiproject.org/svn/user/trunk/user-api
 user/user-impl					https://source.sakaiproject.org/svn/user/trunk/user-impl
