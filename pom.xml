@@ -24,7 +24,7 @@
 		<module>archive/import-impl</module>
 		<module>archive/import-pack</module>
 		<module>archive/import-parsers/common-cartridge/</module>
-  	<module>archive/import-parsers/sakai-archive/</module>
+		<module>archive/import-parsers/sakai-archive/</module>
 		<module>archive/import-handlers/announcement-handlers/</module>
 		<module>archive/import-handlers/content-handlers/</module>
 		<module>authz</module>
@@ -43,6 +43,7 @@
 		<module>entity</module>
 		<module>event</module>
 		<module>jsf</module>
+		<module>jobscheduler</module>
 		<module>login</module>
 		<module>master</module>
 		<module>message</module>
@@ -58,7 +59,10 @@
 		<module>presence</module>
 		<module>privacy</module>
 		<module>reference</module>
+		<module>rwiki</module>
 		<module>sakai-rsf</module>
+		<module>search</module>
+		<module>sections</module>
 		<module>site</module>
 		<module>site-manage</module>
 		<module>test-harness</module>
@@ -71,4 +75,27 @@
 		<module>util</module>
 		<module>velocity</module>
 	</modules>
+	<pluginRepositories>
+	<pluginRepository>
+	  <id>elca-services</id>
+	  <url>http://el4.elca-services.ch/el4j/maven2repository</url>
+	  <releases>
+	   <enabled>true</enabled>
+	  </releases>
+	</pluginRepository>
+	</pluginRepositories>
+  <build>
+  <plugins>
+	<plugin>
+	   <groupId>ch.elca.el4j.maven.plugins</groupId>
+	   <artifactId>maven-depgraph-plugin</artifactId>
+	   <configuration>
+             <groupFilter>org.sakaiproject.*</groupFilter>
+      	 <outDir>m2-target/site/images</outDir>
+		 <outFile>sakai-cafe-sakaiproject.dot</outFile>
+	   </configuration>
+   <version>1.1</version>
+  </plugin>
+</plugins>
+</build>
 </project>
