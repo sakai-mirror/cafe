@@ -12,11 +12,13 @@
   <artifactId>courier-base</artifactId>
   <packaging>pom</packaging>
 
-<!--
+<!-- Commenting out since while living on branch cafe_SAK-10971, these urls don't point
+     to the actual place where cafe-trunk is.  When this branch is merged back into
+     cafe-trunk, then this should be uncommented.
  <scm>
-    <connection>scm:svn:https://source.sakaiproject.org/svn/courier/trunk</connection>
-    <developerConnection>scm:svn:https://source.sakaiproject.org/svn/courier/trunk</developerConnection>
-    <url>https://source.sakaiproject.org/svn/courier/trunk</url>
+    <connection>scm:svn:https://source.sakaiproject.org/svn/cafe/trunk/courier</connection>
+    <developerConnection>scm:svn:https://source.sakaiproject.org/svn/cafe/trunk/courier</developerConnection>
+    <url>https://source.sakaiproject.org/svn/cafe/trunk/courier</url>
   </scm>
 -->
 

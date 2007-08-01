@@ -12,11 +12,15 @@
   <artifactId>memory-base</artifactId>
   <packaging>pom</packaging>
 
+<!-- Commenting out since while living on branch cafe_SAK-10971, these urls don't point
+     to the actual place where cafe-trunk is.  When this branch is merged back into
+     cafe-trunk, then this should be uncommented.
   <scm>
-    <connection>scm:svn:https://source.sakaiproject.org/svn/memory/trunk</connection>
-    <developerConnection>scm:svn:https://source.sakaiproject.org/svn/memory/trunk</developerConnection>
-    <url>https://source.sakaiproject.org/svn/memory/trunk</url>
+    <connection>scm:svn:https://source.sakaiproject.org/svn/cafe/trunk/memory</connection>
+    <developerConnection>scm:svn:https://source.sakaiproject.org/svn/cafe/trunk/memory</developerConnection>
+    <url>https://source.sakaiproject.org/svn/cafe/trunk/memory</url>
   </scm>
+-->
 
   <modules>
     <module>memory-api/api</module>

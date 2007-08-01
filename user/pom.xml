@@ -11,12 +11,16 @@
   <groupId>org.sakaiproject</groupId>
   <artifactId>user-base</artifactId>
   <packaging>pom</packaging>
-  <scm>
-    <connection>scm:svn:https://source.sakaiproject.org/svn/user/trunk</connection>
-    <developerConnection>scm:svn:https://source.sakaiproject.org/svn/user/trunk</developerConnection>
-    <url>https://source.sakaiproject.org/svn/user/trunk</url>
-  </scm>
 
+<!-- Commenting out since while living on branch cafe_SAK-10971, these urls don't point
+     to the actual place where cafe-trunk is.  When this branch is merged back into
+     cafe-trunk, then this should be uncommented.
+  <scm>
+    <connection>scm:svn:https://source.sakaiproject.org/svn/cafe/trunk/user</connection>
+    <developerConnection>scm:svn:https://source.sakaiproject.org/svn/cafe/trunk/user</developerConnection>
+    <url>https://source.sakaiproject.org/svn/cafe/trunk/user</url>
+  </scm>
+-->
 
   <modules>
     <module>user-api/api</module>
