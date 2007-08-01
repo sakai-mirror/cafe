@@ -1,0 +1,9 @@
+archive-api                             https://source.sakaiproject.org/svn/archive/trunk/archive-api
+archive-impl                            https://source.sakaiproject.org/svn/archive/trunk/archive-impl
+archive-tool                            https://source.sakaiproject.org/svn/archive/trunk/archive-tool
+import-api                              https://source.sakaiproject.org/svn/archive/trunk/import-api
+import-impl                             https://source.sakaiproject.org/svn/archive/trunk/import-impl
+import-pack                             https://source.sakaiproject.org/svn/archive/trunk/import-pack
+import-parsers                          https://source.sakaiproject.org/svn/archive/trunk/import-parsers
+import-handlers/announcement-handlers/  https://source.sakaiproject.org/svn/archive/trunk/import-handlers/announcement-handlers/
+import-handlers/content-handlers/       https://source.sakaiproject.org/svn/archive/trunk/import-handlers/content-handlers/

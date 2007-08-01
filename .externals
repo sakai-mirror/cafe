@@ -1,15 +1,6 @@
 access						https://source.sakaiproject.org/svn/access/trunk
 alias						https://source.sakaiproject.org/svn/alias/trunk
 announcement					https://source.sakaiproject.org/svn/announcement/trunk
-archive/archive-api				https://source.sakaiproject.org/svn/archive/trunk/archive-api
-archive/archive-impl				https://source.sakaiproject.org/svn/archive/trunk/archive-impl
-archive/archive-tool				https://source.sakaiproject.org/svn/archive/trunk/archive-tool
-archive/import-api				https://source.sakaiproject.org/svn/archive/trunk/import-api
-archive/import-impl				https://source.sakaiproject.org/svn/archive/trunk/import-impl
-archive/import-pack				https://source.sakaiproject.org/svn/archive/trunk/import-pack
-archive/import-parsers				https://source.sakaiproject.org/svn/archive/trunk/import-parsers
-archive/import-handlers/announcement-handlers/	https://source.sakaiproject.org/svn/archive/trunk/import-handlers/announcement-handlers/
-archive/import-handlers/content-handlers/	https://source.sakaiproject.org/svn/archive/trunk/import-handlers/content-handlers/
 authz						https://source.sakaiproject.org/svn/authz/trunk
 calendar/mergedlist-util			https://source.sakaiproject.org/svn/calendar/trunk/mergedlist-util
 chat						https://source.sakaiproject.org/svn/chat/trunk
