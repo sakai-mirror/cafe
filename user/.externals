@@ -1,0 +1,4 @@
+user-api					https://source.sakaiproject.org/svn/user/trunk/user-api
+user-impl					https://source.sakaiproject.org/svn/user/trunk/user-impl
+user-tool					https://source.sakaiproject.org/svn/user/trunk/user-tool
+user-util					https://source.sakaiproject.org/svn/user/trunk/user-util
