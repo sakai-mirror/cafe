@@ -41,9 +41,7 @@
 		<module>login</module>
 		<module>master</module>
 		<module>message</module>
-		<module>memory/memory-api/api</module>
-		<module>memory/memory-impl/impl</module>
-		<module>memory/memory-impl/pack</module>
+		<module>memory</module>
 		<module>portal</module>
 		<module>reference</module>
 		<module>search</module>

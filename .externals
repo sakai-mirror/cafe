@@ -24,8 +24,7 @@ jsf								https://source.sakaiproject.org/svn/jsf/trunk
 login								https://source.sakaiproject.org/svn/login/trunk
 master							https://source.sakaiproject.org/svn/master/trunk
 message							https://source.sakaiproject.org/svn/message/trunk
-memory/memory-api						https://source.sakaiproject.org/svn/memory/trunk/memory-api
-memory/memory-impl					https://source.sakaiproject.org/svn/memory/trunk/memory-impl
+memory							https://source.sakaiproject.org/svn/memory/trunk
 portal							https://source.sakaiproject.org/svn/portal/trunk
 reference							https://source.sakaiproject.org/svn/reference/trunk
 search							https://source.sakaiproject.org/svn/search/trunk
