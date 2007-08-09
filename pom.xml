@@ -28,14 +28,8 @@
 		<module>archive/import-handlers/announcement-handlers/</module>
 		<module>archive/import-handlers/content-handlers/</module>
 		<module>authz</module>
-		<module>calendar/mergedlist-util/util</module>
-		<module>chat</module>
 		<module>component</module>
 		<module>content</module>
-		<module>courier/courier-api/api</module>
-		<module>courier/courier-impl/impl</module>
-		<module>courier/courier-impl/pack</module>
-		<module>courier/courier-util/util</module>
 		<module>course-management</module>
 		<module>db</module>
 		<module>discussion</module>
@@ -47,19 +41,11 @@
 		<module>login</module>
 		<module>master</module>
 		<module>message</module>
-		<module>mailarchive/mailarchive-api/api</module>
-		<module>mailarchive/mailarchive-impl/impl</module>
-		<module>mailarchive/mailarchive-impl/pack</module>
-		<module>mailarchive/mailarchive-tool/tool</module>
 		<module>memory/memory-api/api</module>
 		<module>memory/memory-impl/impl</module>
 		<module>memory/memory-impl/pack</module>
-		<module>metaobj</module>
 		<module>portal</module>
-		<module>presence</module>
-		<module>privacy</module>
 		<module>reference</module>
-		<module>rwiki</module>
 		<module>search</module>
 		<module>sections</module>
 		<module>site</module>
