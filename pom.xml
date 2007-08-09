@@ -30,7 +30,6 @@
 		<module>authz</module>
 		<module>component</module>
 		<module>content</module>
-		<module>course-management</module>
 		<module>db</module>
 		<module>discussion</module>
 		<module>email</module>
@@ -45,7 +44,6 @@
 		<module>portal</module>
 		<module>reference</module>
 		<module>search</module>
-		<module>sections</module>
 		<module>site</module>
 		<module>site-manage</module>
 		<module>test-harness</module>
