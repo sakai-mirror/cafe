@@ -30,6 +30,7 @@
 		<module>authz</module>
 		<module>component</module>
 		<module>content</module>
+		<module>courier</module>
 		<module>db</module>
 		<module>discussion</module>
 		<module>email</module>
@@ -42,6 +43,7 @@
 		<module>message</module>
 		<module>memory</module>
 		<module>portal</module>
+		<module>presence</module>
 		<module>reference</module>
 		<module>search</module>
 		<module>site</module>
