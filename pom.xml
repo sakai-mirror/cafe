@@ -32,7 +32,6 @@
 		<module>content</module>
 		<module>courier</module>
 		<module>db</module>
-		<module>discussion</module>
 		<module>email</module>
 		<module>entity</module>
 		<module>event</module>
