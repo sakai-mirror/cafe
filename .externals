@@ -20,6 +20,7 @@ content/content-test					https://source.sakaiproject.org/svn/content/trunk/conte
 content/content-tool					https://source.sakaiproject.org/svn/content/trunk/content-tool
 content/content-util					https://source.sakaiproject.org/svn/content/trunk/content-util
 courier							https://source.sakaiproject.org/svn/courier/trunk
+course-management						https://source.sakaiproject.org/svn/course-management/trunk/cm-api
 db								https://source.sakaiproject.org/svn/db/trunk
 email								https://source.sakaiproject.org/svn/email/trunk
 entity							https://source.sakaiproject.org/svn/entity/trunk
