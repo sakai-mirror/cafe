@@ -42,7 +42,6 @@
 		<module>message</module>
 		<module>memory</module>
 		<module>portal</module>
-		<module>presence</module>
 		<module>reference</module>
 		<module>search</module>
 		<module>site</module>
