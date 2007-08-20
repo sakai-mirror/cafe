@@ -15,18 +15,7 @@
 		<module>access</module>
 		<module>alias</module>
 		<module>announcement</module>
-		<module>archive/archive-api/api</module>
-		<module>archive/archive-impl/impl</module>
-		<module>archive/archive-impl/impl2</module>
-		<module>archive/archive-impl/pack</module>
-		<module>archive/archive-tool/tool</module>
-		<module>archive/import-api</module>
-		<module>archive/import-impl</module>
-		<module>archive/import-pack</module>
-		<module>archive/import-parsers/common-cartridge/</module>
-		<module>archive/import-parsers/sakai-archive/</module>
-		<module>archive/import-handlers/announcement-handlers/</module>
-		<module>archive/import-handlers/content-handlers/</module>
+		<module>archive</module>
 		<module>authz</module>
 		<module>component</module>
 		<module>content</module>
@@ -49,11 +38,7 @@
 		<module>site-manage</module>
 		<module>test-harness</module>
 		<module>tool</module>
-		<module>user/user-api/api</module>
-		<module>user/user-impl/impl</module>
-		<module>user/user-impl/pack</module>
-		<module>user/user-tool/tool</module>
-		<module>user/user-util/util</module>
+		<module>user</module>
 		<module>util</module>
 		<module>velocity</module>
 	</modules>
