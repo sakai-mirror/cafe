@@ -34,7 +34,6 @@ memory							https://source.sakaiproject.org/svn/memory/trunk
 portal							https://source.sakaiproject.org/svn/portal/trunk
 presence/presence-api					https://source.sakaiproject.org/svn/presence/trunk/presence-api/
 reference							https://source.sakaiproject.org/svn/reference/trunk
-search							https://source.sakaiproject.org/svn/search/trunk
 site								https://source.sakaiproject.org/svn/site/trunk
 site-manage							https://source.sakaiproject.org/svn/site-manage/trunk
 test-harness						https://source.sakaiproject.org/svn/test-harness/trunk
