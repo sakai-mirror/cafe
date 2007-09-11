@@ -8,7 +8,7 @@ archive/import-api					https://source.sakaiproject.org/svn/archive/trunk/import-
 archive/import-impl					https://source.sakaiproject.org/svn/archive/trunk/import-impl
 archive/import-pack					https://source.sakaiproject.org/svn/archive/trunk/import-pack
 archive/import-parsers					https://source.sakaiproject.org/svn/archive/trunk/import-parsers
-archive/import-handlers/announcement-handlers/	https://source.sakaiproject.org/svn/archive/trunk/import-handlers/announcement-handlers/
+archive/import-handlers/announcement-handlers/		https://source.sakaiproject.org/svn/archive/trunk/import-handlers/announcement-handlers/
 archive/import-handlers/content-handlers/		https://source.sakaiproject.org/svn/archive/trunk/import-handlers/content-handlers/
 authz								https://source.sakaiproject.org/svn/authz/trunk
 component							https://source.sakaiproject.org/svn/component/trunk
@@ -34,6 +34,7 @@ memory							https://source.sakaiproject.org/svn/memory/trunk
 portal							https://source.sakaiproject.org/svn/portal/trunk
 presence/presence-api					https://source.sakaiproject.org/svn/presence/trunk/presence-api/
 reference							https://source.sakaiproject.org/svn/reference/trunk
+sakai-mock							https://source.sakaiproject.org/svn/sakai-mock/trunk
 site								https://source.sakaiproject.org/svn/site/trunk
 site-manage							https://source.sakaiproject.org/svn/site-manage/trunk
 test-harness						https://source.sakaiproject.org/svn/test-harness/trunk

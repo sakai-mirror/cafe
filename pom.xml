@@ -34,6 +34,7 @@
 		<module>portal</module>
 		<module>presence</module>
 		<module>reference</module>
+		<module>sakai-mock</module>
 		<module>site</module>
 		<module>site-manage</module>
 		<module>test-harness</module>
