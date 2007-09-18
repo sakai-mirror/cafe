@@ -24,6 +24,7 @@
 		<module>db</module>
 		<module>email</module>
 		<module>entity</module>
+		<module>entitybroker</module>
 		<module>event</module>
 		<module>jsf</module>
 		<module>jobscheduler</module>
