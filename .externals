@@ -1,6 +1,7 @@
 access								https://source.sakaiproject.org/svn/access/trunk
 alias								https://source.sakaiproject.org/svn/alias/trunk
-announcement							https://source.sakaiproject.org/svn/announcement/trunk
+announcement/announcement-api				https://source.sakaiproject.org/svn/announcement/trunk/announcement-api
+announcement/announcement-impl				https://source.sakaiproject.org/svn/announcement/trunk/announcement-impl
 archive/archive-api					https://source.sakaiproject.org/svn/archive/trunk/archive-api
 archive/archive-impl					https://source.sakaiproject.org/svn/archive/trunk/archive-impl
 archive/archive-tool					https://source.sakaiproject.org/svn/archive/trunk/archive-tool
