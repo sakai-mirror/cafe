@@ -46,6 +46,7 @@
 		<module>util</module>
 		<module>velocity</module>
 	</modules>
+<!-- removed this since it was causing build failures -AZ
 	<pluginRepositories>
 	<pluginRepository>
 	  <id>elca-services</id>
@@ -69,4 +70,6 @@
   </plugin>
 </plugins>
 </build>
+-->
+<build />
 </project>
