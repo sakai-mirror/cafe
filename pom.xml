@@ -17,16 +17,11 @@
 		<module>announcement</module>
 		<module>archive</module>
 		<module>authz</module>
-		<module>cluster</module>
-		<module>component</module>
 		<module>content</module>
 		<module>courier</module>
 		<module>course-management</module>
-		<module>db</module>
 		<module>email</module>
-		<module>entity</module>
 		<module>entitybroker</module>
-		<module>event</module>
 		<module>help</module>
 		<module>jobscheduler</module>
 		<module>jsf</module>
@@ -43,33 +38,8 @@
 		<module>test-harness</module>
 		<module>tool</module>
 		<module>user</module>
-		<module>util</module>
 		<module>velocity</module>
 	</modules>
-<!-- removed this since it caused a failure in the build -AZ
-	<pluginRepositories>
-	<pluginRepository>
-	  <id>elca-services</id>
-	  <url>http://el4.elca-services.ch/el4j/maven2repository</url>
-	  <releases>
-	   <enabled>true</enabled>
-	  </releases>
-	</pluginRepository>
-	</pluginRepositories>
-  <build>
-  <plugins>
-	<plugin>
-	   <groupId>ch.elca.el4j.maven.plugins</groupId>
-	   <artifactId>maven-depgraph-plugin</artifactId>
-	   <configuration>
-             <groupFilter>org.sakaiproject.*</groupFilter>
-      	 <outDir>m2-target/site/images</outDir>
-		 <outFile>sakai-cafe-sakaiproject.dot</outFile>
-	   </configuration>
-   <version>1.1</version>
-  </plugin>
-</plugins>
-</build>
--->
-<build />
+
+        <build />
 </project>
