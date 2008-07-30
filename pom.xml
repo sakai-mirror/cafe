@@ -20,7 +20,6 @@
 		<module>content</module>
 		<module>courier</module>
 		<module>course-management</module>
-		<module>email</module>
 		<module>entitybroker</module>
 		<module>help</module>
 		<module>jobscheduler</module>
