@@ -19,8 +19,6 @@
 
       <modules>
         <module>content-help</module>
-        <module>content-impl-providers/impl</module>
-        <module>content-impl-providers/pack</module>
         <module>content-tool</module>
         <module>content-tool/tool</module>
       </modules>
