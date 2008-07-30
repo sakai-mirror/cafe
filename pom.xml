@@ -11,7 +11,13 @@
 	<groupId>org.sakaiproject</groupId>
 	<artifactId>base</artifactId>
 	<packaging>pom</packaging>
+  <scm>
+    <connection>scm:svn:https://source.sakaiproject.org/svn/cafe/trunk</connection>
+    <developerConnection>scm:svn:https://source.sakaiproject.org/svn/cafe/trunk</developerConnection>
+    <url>https://source.sakaiproject.org/svn/cafe/trunk</url>
+  </scm>
 	<modules>
+	        <module>kernel-deploy</module>
 		<module>access</module>
 		<module>alias</module>
 		<module>announcement</module>
