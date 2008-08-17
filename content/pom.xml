@@ -19,7 +19,6 @@
 
       <modules>
         <module>content-help</module>
-        <module>content-tool</module>
         <module>content-tool/tool</module>
       </modules>
 <dependencyManagement>
