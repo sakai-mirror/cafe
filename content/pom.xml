@@ -20,7 +20,9 @@
       <modules>
         <module>content-help</module>
         <module>content-tool/tool</module>
-	<module>content-bundles</modules>
+	<!-- somewhere there must be something to deploy these
+	<module>content-bundles</module>
+	-->
       </modules>
 <dependencyManagement>
  <dependencies>
