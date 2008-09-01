@@ -20,6 +20,7 @@
       <modules>
         <module>content-help</module>
         <module>content-tool/tool</module>
+	<module>content-bundles</modules>
       </modules>
 <dependencyManagement>
  <dependencies>
