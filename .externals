@@ -36,3 +36,4 @@ test-harness							https://source.sakaiproject.org/svn/test-harness/trunk
 tool								https://source.sakaiproject.org/svn/tool/trunk
 user/user-tool						https://source.sakaiproject.org/svn/user/trunk/user-tool
 velocity							https://source.sakaiproject.org/svn/velocity/trunk
+emailtemplateservice  https://source.sakaiproject.org/svn/emailtemplateservice/trunk

@@ -44,6 +44,7 @@
 		<module>tool</module>
 		<module>user</module>
 		<module>velocity</module>
+		<module>emailtemplateservice</module>
 	</modules>
 
         <build />
