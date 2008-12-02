@@ -12,6 +12,7 @@ archive/import-parsers					https://source.sakaiproject.org/svn/archive/branches/
 archive/import-handlers/announcement-handlers/		https://source.sakaiproject.org/svn/archive/branches/sakai_2-6-x/import-handlers/announcement-handlers/
 archive/import-handlers/content-handlers/		https://source.sakaiproject.org/svn/archive/branches/sakai_2-6-x/import-handlers/content-handlers/
 authz								https://source.sakaiproject.org/svn/authz/branches/sakai_2-6-x
+config								https://source.sakaiproject.org/svn/config/branches/sakai_2-6-x
 content/content-help						https://source.sakaiproject.org/svn/content/branches/sakai_2-6-x/content-help
 content/content-tool						https://source.sakaiproject.org/svn/content/branches/sakai_2-6-x/content-tool
 content/content-bundles						https://source.sakaiproject.org/svn/content/branches/sakai_2-6-x/content-bundles
