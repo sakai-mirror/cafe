@@ -23,6 +23,7 @@
 		<module>announcement</module>
 		<module>archive</module>
 		<module>authz</module>
+		<module>config</module>
 		<module>content</module>
 		<module>courier</module>
 		<module>course-management</module>

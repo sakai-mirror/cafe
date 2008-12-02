@@ -12,6 +12,7 @@ archive/import-parsers					https://source.sakaiproject.org/svn/archive/trunk/imp
 archive/import-handlers/announcement-handlers/		https://source.sakaiproject.org/svn/archive/trunk/import-handlers/announcement-handlers/
 archive/import-handlers/content-handlers/		https://source.sakaiproject.org/svn/archive/trunk/import-handlers/content-handlers/
 authz								https://source.sakaiproject.org/svn/authz/trunk
+config								https://source.sakaiproject.org/svn/config/trunk
 content/content-help						https://source.sakaiproject.org/svn/content/trunk/content-help
 content/content-tool						https://source.sakaiproject.org/svn/content/trunk/content-tool
 content/content-bundles						https://source.sakaiproject.org/svn/content/trunk/content-bundles
