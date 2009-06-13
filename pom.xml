@@ -7,7 +7,7 @@
 		<version>2.7.0-SNAPSHOT</version>
 		<relativePath>master/pom.xml</relativePath>
 	</parent>
-	<name>Sakai Core Project</name>
+	<name>Sakai SMPL Integration</name>
 	<groupId>org.sakaiproject</groupId>
 	<artifactId>base</artifactId>
 	<packaging>pom</packaging>
