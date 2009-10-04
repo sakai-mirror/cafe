@@ -17,7 +17,7 @@ content/content-help						https://source.sakaiproject.org/svn/content/trunk/cont
 content/content-tool						https://source.sakaiproject.org/svn/content/trunk/content-tool
 content/content-bundles						https://source.sakaiproject.org/svn/content/trunk/content-bundles
 courier								https://source.sakaiproject.org/svn/courier/trunk
-course-management/cm-api				https://source.sakaiproject.org/svn/course-management/trunk/cm-api
+course-management/cm-api				https://source.sakaiproject.org/svn/edu-services//trunk/course-management/cm-api
 entitybroker							https://source.sakaiproject.org/svn/entitybroker/trunk
 help								https://source.sakaiproject.org/svn/help/trunk
 jobscheduler							https://source.sakaiproject.org/svn/jobscheduler/trunk
