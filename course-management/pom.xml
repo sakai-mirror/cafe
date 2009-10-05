@@ -8,8 +8,9 @@
     <relativePath>../pom.xml</relativePath>
   </parent>
   <name>Sakai Course Management Project</name>
-  <groupId>org.sakaiproject</groupId>
-  <artifactId>course-management-base</artifactId>
+  <groupId>org.sakaiproject.edu-services.course-management</groupId>
+  <artifactId>course-management</artifactId>
+  <version>1.0-SNAPSHOT</version>
   <packaging>pom</packaging>
   <modules>
     <module>cm-api/api</module>
