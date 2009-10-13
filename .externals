@@ -2,15 +2,6 @@ access								https://source.sakaiproject.org/svn/access/trunk
 alias								https://source.sakaiproject.org/svn/alias/trunk
 announcement/announcement-api				https://source.sakaiproject.org/svn/announcement/trunk/announcement-api
 announcement/announcement-impl				https://source.sakaiproject.org/svn/announcement/trunk/announcement-impl
-archive/archive-api					https://source.sakaiproject.org/svn/archive/trunk/archive-api
-archive/archive-impl					https://source.sakaiproject.org/svn/archive/trunk/archive-impl
-archive/archive-tool					https://source.sakaiproject.org/svn/archive/trunk/archive-tool
-archive/import-api					https://source.sakaiproject.org/svn/archive/trunk/import-api
-archive/import-impl					https://source.sakaiproject.org/svn/archive/trunk/import-impl
-archive/import-pack					https://source.sakaiproject.org/svn/archive/trunk/import-pack
-archive/import-parsers					https://source.sakaiproject.org/svn/archive/trunk/import-parsers
-archive/import-handlers/announcement-handlers/		https://source.sakaiproject.org/svn/archive/trunk/import-handlers/announcement-handlers/
-archive/import-handlers/content-handlers/		https://source.sakaiproject.org/svn/archive/trunk/import-handlers/content-handlers/
 authz								https://source.sakaiproject.org/svn/authz/trunk
 config								https://source.sakaiproject.org/svn/config/trunk
 content/content-help						https://source.sakaiproject.org/svn/content/trunk/content-help
