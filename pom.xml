@@ -7,45 +7,55 @@
 		<version>2.7.0-SNAPSHOT</version>
 		<relativePath>master/pom.xml</relativePath>
 	</parent>
-	<name>Sakai Core Project</name>
+	<name>Sakai cafe build Project</name>
 	<groupId>org.sakaiproject</groupId>
 	<artifactId>base</artifactId>
 	<packaging>pom</packaging>
-  <scm>
-    <connection>scm:svn:https://source.sakaiproject.org/svn/cafe/trunk</connection>
-    <developerConnection>scm:svn:https://source.sakaiproject.org/svn/cafe/trunk</developerConnection>
-    <url>https://source.sakaiproject.org/svn/cafe/trunk</url>
-  </scm>
-	<modules>
-	        <module>kernel-deploy</module>
-		<module>access</module>
-		<module>alias</module>
-		<module>announcement</module>
-		<module>authz</module>
-		<module>config</module>
-		<module>content</module>
-		<module>courier</module>
-		<module>course-management</module>
-		<module>entitybroker</module>
-		<module>help</module>
-		<module>jobscheduler</module>
-		<module>jsf</module>
-		<module>login</module>
-		<module>master</module>
-		<module>message</module>
-		<module>memory</module>
-		<module>portal</module>
-		<module>presence</module>
-		<module>reference</module>
-		<module>sakai-mock</module>
-		<module>site</module>
-		<module>site-manage</module>
-		<module>test-harness</module>
-		<module>tool</module>
-		<module>user</module>
-		<module>velocity</module>
-		<module>emailtemplateservice</module>
-	</modules>
+	<scm>
+		<connection>scm:svn:https://source.sakaiproject.org/svn/cafe/trunk
+		</connection>
+		<developerConnection>scm:svn:https://source.sakaiproject.org/svn/cafe/trunk
+		</developerConnection>
+		<url>https://source.sakaiproject.org/svn/cafe/trunk</url>
+	</scm>
+	<profiles>
+		<profile>
+			<id>cafe</id>
+			<activation>
+				<activeByDefault>true</activeByDefault>
+			</activation>
+			<modules>
+				<module>kernel-deploy</module>
+				<module>access</module>
+				<module>alias</module>
+				<module>announcement</module>
+				<module>authz</module>
+				<module>config</module>
+				<module>content</module>
+				<module>courier</module>
+				<module>course-management</module>
+				<module>help</module>
+				<module>jobscheduler</module>
+				<module>jsf</module>
+				<module>login</module>
+				<module>master</module>
+				<module>message</module>
+				<module>memory</module>
+				<module>portal</module>
+				<module>presence</module>
+				<module>reference</module>
+				<module>sakai-mock</module>
+				<module>site</module>
+				<module>site-manage</module>
+				<module>test-harness</module>
+				<module>tool</module>
+				<module>user</module>
+				<module>velocity</module>
+				<module>emailtemplateservice</module>
+			</modules>
 
-        <build />
+		</profile>
+	</profiles>
+
+	<build />
 </project>
