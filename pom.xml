@@ -33,7 +33,6 @@
 				<module>config</module>
 				<module>content</module>
 				<module>courier</module>
-				<module>course-management</module>
 				<module>help</module>
 				<module>jobscheduler</module>
 				<module>jsf</module>
