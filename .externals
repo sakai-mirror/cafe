@@ -13,6 +13,7 @@ jobscheduler							https://source.sakaiproject.org/svn/jobscheduler/trunk
 jsf								https://source.sakaiproject.org/svn/jsf/trunk
 kernel-deploy							https://source.sakaiproject.org/svn/sakai/trunk/kernel-deploy/
 core-deploy							https://source.sakaiproject.org/svn/sakai/trunk/core-deploy/
+framewrok-shared-deploy						https://source.sakaiproject.org/svn/sakai/trunk/framework-shared-deploy
 login								https://source.sakaiproject.org/svn/login/trunk
 master								https://source.sakaiproject.org/svn/master/trunk
 message								https://source.sakaiproject.org/svn/message/trunk

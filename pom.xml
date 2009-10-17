@@ -26,6 +26,8 @@
 			</activation>
 			<modules>
 				<module>kernel-deploy</module>
+				<module>core-deploy</module>
+				<module>framework-shared-deploy</module>
 				<module>access</module>
 				<module>alias</module>
 				<module>announcement</module>
