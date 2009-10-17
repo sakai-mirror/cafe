@@ -8,7 +8,6 @@ content/content-help						https://source.sakaiproject.org/svn/content/trunk/cont
 content/content-tool						https://source.sakaiproject.org/svn/content/trunk/content-tool
 content/content-bundles						https://source.sakaiproject.org/svn/content/trunk/content-bundles
 courier								https://source.sakaiproject.org/svn/courier/trunk
-course-management/cm-api				https://source.sakaiproject.org/svn/edu-services/trunk/cm-service/cm-api/
 help								https://source.sakaiproject.org/svn/help/trunk
 jobscheduler							https://source.sakaiproject.org/svn/jobscheduler/trunk
 jsf								https://source.sakaiproject.org/svn/jsf/trunk
