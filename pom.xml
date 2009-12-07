@@ -48,7 +48,6 @@
 				<module>sakai-mock</module>
 				<module>site</module>
 				<module>site-manage</module>
-				<module>test-harness</module>
 				<module>tool</module>
 				<module>user</module>
 				<module>velocity</module>
