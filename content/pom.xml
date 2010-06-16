@@ -8,8 +8,8 @@
     <relativePath>../pom.xml</relativePath>
   </parent>
   <name>Sakai Content Project</name>
-  <groupId>org.sakaiproject</groupId>
-  <artifactId>content-base</artifactId>
+  <groupId>org.sakaiproject.content</groupId>
+  <artifactId>content</artifactId>
   <packaging>pom</packaging>
   <scm>
     <connection>scm:svn:https://source.sakaiproject.org/svn/content/trunk</connection>
@@ -34,6 +34,11 @@
     <dependency>
       <groupId>org.sakaiproject</groupId>
       <artifactId>sakai-velocity-tool</artifactId>
+      <version>2.7-SNAPSHOT</version>
+    </dependency>
+    <dependency>
+      <groupId>org.sakaiproject.content</groupId>
+      <artifactId>content-bundles</artifactId>
       <version>2.7-SNAPSHOT</version>
     </dependency>
  </dependencies>
