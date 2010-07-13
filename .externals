@@ -7,6 +7,9 @@ config								https://source.sakaiproject.org/svn/config/trunk
 content/content-help						https://source.sakaiproject.org/svn/content/trunk/content-help
 content/content-tool						https://source.sakaiproject.org/svn/content/trunk/content-tool
 content/content-bundles						https://source.sakaiproject.org/svn/content/trunk/content-bundles
+content/content-types						https://source.sakaiproject.org/svn/content/trunk/content-types/
+content/content-types-pack					https://source.sakaiproject.org/svn/content/trunk/content-types-pack/
+
 courier								https://source.sakaiproject.org/svn/courier/trunk
 help								https://source.sakaiproject.org/svn/help/trunk
 jobscheduler							https://source.sakaiproject.org/svn/jobscheduler/trunk
