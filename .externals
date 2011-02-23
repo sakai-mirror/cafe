@@ -13,7 +13,6 @@ content/content-types-pack					https://source.sakaiproject.org/svn/content/trunk
 courier								https://source.sakaiproject.org/svn/courier/trunk
 help								https://source.sakaiproject.org/svn/help/trunk
 jobscheduler							https://source.sakaiproject.org/svn/jobscheduler/trunk
-jsf								https://source.sakaiproject.org/svn/jsf/trunk
 kernel-deploy							https://source.sakaiproject.org/svn/sakai/trunk/kernel-deploy/
 core-deploy							https://source.sakaiproject.org/svn/sakai/trunk/core-deploy/
 framework-shared-deploy						https://source.sakaiproject.org/svn/sakai/trunk/framework-shared-deploy

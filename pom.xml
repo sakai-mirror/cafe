@@ -37,7 +37,6 @@
 				<module>courier</module>
 				<module>help</module>
 				<module>jobscheduler</module>
-				<module>jsf</module>
 				<module>login</module>
 				<module>master</module>
 				<module>message</module>
