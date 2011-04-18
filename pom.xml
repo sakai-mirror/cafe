@@ -50,7 +50,6 @@
 				<module>tool</module>
 				<module>user</module>
 				<module>velocity</module>
-				<module>emailtemplateservice</module>
 				<module>textarea</module>
 			</modules>
 
