@@ -23,6 +23,9 @@
 	<module>content-bundles</module>
 	<module>content-types</module>
 	<module>content-types-pack</module>
+	<module>content-copyright/api</module>
+	<module>content-copyright/impl</module>
+	<module>content-copyright/pack</module>
       </modules>
 <dependencyManagement>
  <dependencies>

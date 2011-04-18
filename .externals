@@ -9,6 +9,7 @@ content/content-tool						https://source.sakaiproject.org/svn/content/trunk/cont
 content/content-bundles						https://source.sakaiproject.org/svn/content/trunk/content-bundles
 content/content-types						https://source.sakaiproject.org/svn/content/trunk/content-types/
 content/content-types-pack					https://source.sakaiproject.org/svn/content/trunk/content-types-pack/
+content/content-copyright/					https://source.sakaiproject.org/svn/content/trunk/content-copyright/
 
 courier								https://source.sakaiproject.org/svn/courier/trunk
 help								https://source.sakaiproject.org/svn/help/trunk
