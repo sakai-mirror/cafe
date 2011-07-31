@@ -16,44 +16,42 @@
     <developerConnection>scm:svn:https://source.sakaiproject.org/svn/user/trunk</developerConnection>
     <url>https://source.sakaiproject.org/svn/user/trunk</url>
   </scm>
-
-
   <modules>
     <module>user-tool/tool</module>
   </modules>
 
+
   <dependencyManagement>
     <dependencies>
       <dependency>
-	<groupId>org.sakaiproject</groupId>
-	<artifactId>sakai-velocity-tool</artifactId>
-	<version>2.9-SNAPSHOT</version>
+        <groupId>org.sakaiproject.velocity</groupId>
+        <artifactId>sakai-velocity-tool</artifactId>
+        <version>${sakai.velocity-tool.version}</version>
       </dependency>
       <dependency>
-	<groupId>org.sakaiproject</groupId>
-	<artifactId>sakai-depend-jsf-widgets-sun</artifactId>
-	<version>2.9-SNAPSHOT</version>
-	<type>pom</type>
+        <groupId>org.sakaiproject.jsf</groupId>
+        <artifactId>jsf-widgets-sun-depend</artifactId>
+        <version>${sakai.jsf.version}</version>
+        <type>pom</type>
       </dependency>
-      <!-- this is required for any Sakai JSF tool -->
+<!-- this is required for any Sakai JSF tool -->
       <dependency>
-	<groupId>org.sakaiproject</groupId>
-	<artifactId>sakai-jsf-tool</artifactId>
-	<version>2.9-SNAPSHOT</version>
+        <groupId>org.sakaiproject.jsf</groupId>
+        <artifactId>jsf-tool</artifactId>
+        <version>${sakai.jsf.version}</version>
       </dependency>
-      <!-- these (jsf-app and util-web, util-text) are options to get full Sakai integration -->
+<!-- these (jsf-app and util-web, util-text) are options to get full Sakai integration -->
       <dependency>
-	<groupId>org.sakaiproject</groupId>
-	<artifactId>sakai-jsf-app</artifactId>
-	<version>2.9-SNAPSHOT</version>
+        <groupId>org.sakaiproject.jsf</groupId>
+        <artifactId>jsf-app</artifactId>
+        <version>${sakai.jsf.version}</version>
       </dependency>
       <dependency>
-	<groupId>org.sakaiproject</groupId>
-	<artifactId>sakai-jsf-sun-ri-tool</artifactId>
-	<version>2.9-SNAPSHOT</version>
-	<type>pom</type>
+        <groupId>org.sakaiproject.jsf</groupId>
+        <artifactId>jsf-tool-sun</artifactId>
+        <version>${sakai.jsf.version}</version>
+        <type>pom</type>
       </dependency>
     </dependencies>
   </dependencyManagement>
-
 </project>
