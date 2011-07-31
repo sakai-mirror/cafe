@@ -22,7 +22,7 @@ master								https://source.sakaiproject.org/svn/master/trunk
 message								https://source.sakaiproject.org/svn/message/trunk
 memory								https://source.sakaiproject.org/svn/memory/trunk
 portal								https://source.sakaiproject.org/svn/portal/trunk
-presence/presence-api					https://source.sakaiproject.org/svn/presence/trunk/presence-api/
+presence							https://source.sakaiproject.org/svn/presence/trunk/
 reference							https://source.sakaiproject.org/svn/reference/trunk
 sakai-mock							https://source.sakaiproject.org/svn/sakai-mock/trunk
 site								https://source.sakaiproject.org/svn/site/trunk
