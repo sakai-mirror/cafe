@@ -36,8 +36,6 @@
 				<module>content</module>
 				<module>courier</module>
 				<module>help</module>
-				<module>jobscheduler</module>
-				<module>jsf</module>
 				<module>login</module>
 				<module>master</module>
 				<module>message</module>
@@ -45,13 +43,13 @@
 				<module>portal</module>
 				<module>presence</module>
 				<module>reference</module>
-				<module>sakai-mock</module>
+				
 				<module>site</module>
 				<module>site-manage</module>
 				<module>tool</module>
 				<module>user</module>
 				<module>velocity</module>
-				<module>emailtemplateservice</module>
+		
 			</modules>
 
 		</profile>
