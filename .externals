@@ -21,7 +21,6 @@ login								https://source.sakaiproject.org/svn/login/trunk
 master								https://source.sakaiproject.org/svn/master/trunk
 message								https://source.sakaiproject.org/svn/message/trunk
 memory								https://source.sakaiproject.org/svn/memory/trunk
-portal								https://source.sakaiproject.org/svn/portal/trunk
 presence							https://source.sakaiproject.org/svn/presence/trunk/
 reference							https://source.sakaiproject.org/svn/reference/trunk
 sakai-mock							https://source.sakaiproject.org/svn/sakai-mock/trunk

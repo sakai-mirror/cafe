@@ -43,7 +43,6 @@
 				<module>master</module>
 				<module>message</module>
 				<module>memory</module>
-				<module>portal</module>
 				<module>presence</module>
 				<module>reference</module>
 				<module>sakai-mock</module>
